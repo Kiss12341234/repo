@@ -5,5 +5,9 @@ body {
 
 A { text-decoration: none; } 
 
-h1 {font-size:15px
+h1 {font-size:15px;
+  text-align: right; 
+  border: 5px groove #7c0dc9;
+  border-radius: 160px;
+  
 }
