@@ -11,9 +11,10 @@ A { text-decoration: none; }
 
 h1 {font-size:15px;
   border: 5px groove #7c0dc9;
-  border-radius: 16px;
+  border-image: linear-gradient(to right, darkblue, darkorchid) 1;
   box-sizing: content-box;
   padding: 10px;
   float: right;
   font-family: "papyrus";
+  background: linear-gradiant(to right, red,purple);
 }
