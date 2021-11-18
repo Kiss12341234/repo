@@ -1,0 +1,16 @@
+
+body {
+  background-image: url('https://cdn.glitch.me/984e2d49-bbc2-445b-9c74-9ff7b5a4c438%2Fgaming.jpg?v=1636642458195')
+}
+
+
+A { text-decoration: none; } 
+
+h1 {font-size:15px;
+  border: 5px groove #7c0dc9;
+  border-radius: 16px;
+  box-sizing: content-box;
+  padding: 10px;
+  float: right;
+  font-family: "papyrus";
+}
