@@ -22,9 +22,8 @@ p {
   color:#fff;
   border-radius: 16px;
    background: 
-    linear-gradient(to right, darkorchid, darkred) padding-box,
-    linear-gradient(to right, black, black) border-box;
+    linear-gradient(to right, darkblue, darkorchid) padding-box,
+    linear-gradient(to right, darkblue, darkorchid) border-box;
    box-sizing: content-box;
-  float:center
-    
 }
+
