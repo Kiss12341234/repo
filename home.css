@@ -16,3 +16,15 @@ h1 {font-size:15px;
   font-family: "papyrus";
   background: linear-gradiant(to right, red,purple);
 }
+
+p {
+  position:absolute; left:0px; top:100px;
+  color:#fff;
+  border-radius: 16px;
+   background: 
+    linear-gradient(to right, darkorchid, darkred) padding-box,
+    linear-gradient(to right, black, black) border-box;
+   box-sizing: content-box;
+  float:center
+    
+}
