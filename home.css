@@ -17,13 +17,9 @@ h1 {font-size:15px;
   background: linear-gradiant(to right, red,purple);
 }
 
+
 p {
   position:absolute; left:0px; top:100px;
   color:#fff;
-  border-radius: 16px;
-   background: 
-    linear-gradient(to right, darkblue, darkorchid) padding-box,
-    linear-gradient(to right, darkblue, darkorchid) border-box;
-   box-sizing: content-box;
 }
 
