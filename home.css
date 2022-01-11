@@ -3,7 +3,9 @@ body {
   background-image: url('https://cdn.glitch.me/984e2d49-bbc2-445b-9c74-9ff7b5a4c438%2FHome%20page.jpg?v=1636642447691')
 }
 
-A { text-decoration: none; } 
+A { text-decoration: none; 
+color: green;
+  background-color: transparent;} 
 
 h1 {font-size:15px;
   border-radius: 16em;
@@ -17,7 +19,8 @@ h1 {font-size:15px;
   background: linear-gradiant(to right, red,purple);
 }
 
-
+h4 {text-align: justify;
+text-indent: 50px;}
 p {
   position:absolute; left:0px; top:100px;
   color:#fff;
