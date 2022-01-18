@@ -20,7 +20,8 @@ h1 {font-size:15px;
 }
 
 h4 {text-align: justify;
-text-indent: 50px;}
+text-indent: 50px;
+  color: white;}
 p3 {text-align: justify;}
 p {
   position:absolute; left:0px; top:100px;
@@ -36,6 +37,6 @@ color: rgb(0,0,0); font-size: 18px; line-height: 18px; padding: 0px; border-radi
   border: 2px solid rgb(0,0,0); 
   display: inline-block;}
 .myButton:hover {
-  background: #FF0000;}
+  background: #0554B8;}
 .myButton:active {
 background: #000000; }
