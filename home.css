@@ -4,7 +4,7 @@ body {
 }
 
 A { text-decoration: none; 
-color: green;
+color: rgb(0,0,0);
   background-color: transparent;} 
 
 h1 {font-size:15px;
@@ -33,9 +33,9 @@ color: rgb(0,0,0); font-size: 18px; line-height: 18px; padding: 0px; border-radi
   font-variant: normal; 
   text-transform: none; 
   background-image: linear-gradient(to right, rgb(202,12,12) 0%, rgb(202,12,12) 50%, rgb(202,12,12) 100%); 
-  border: 2px solid rgb(28, 110, 164); 
+  border: 2px solid rgb(0,0,0); 
   display: inline-block;}
 .myButton:hover {
-background: #FF0000; }
+  background: #FF0000;}
 .myButton:active {
 background: #000000; }
