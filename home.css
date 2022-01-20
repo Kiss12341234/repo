@@ -56,36 +56,15 @@ background: #000000; }
 
 
 .loggin {
+  height:40px;
+  padding: 50px,50px;
   width: 100px;
-  height: 100px;
-  background: #FF0000
-  color: #fff;
-  top: 30%;
-  left: 30%;
+  background: transparent;
+  color: #white;
+  top: 4%;
+  left: 95.5%;
   position: absolute;
-  transform: translate(-50%, - 50%);
-}
-
-.loginbox {
-  width: 320px;
-  height: 420px;
-  background: #000;
-  color: #fff;
-  top: 50%;
-  left: 50%;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  box-sizing: border-box
-  
-}
-
-.avatar{
-  width: 100px;
-  height: 100px;
-  top: -50px;
-  left: calc(50% - 50px);
-  position: absolute;
-  border-radius: 50%;
+  box-sizing: border-box;
 }
 
 m
