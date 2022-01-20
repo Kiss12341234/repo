@@ -53,4 +53,28 @@ color: rgb(0,0,0); font-size: 18px; line-height: 18px; padding: 2px; border-radi
   background: #0554B8;}
 .myButton:active {
 background: #000000; }
+
+
+.loginbox {
+  width: 320px;
+  height: 420px;
+  background: #000;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box
+  
+}
+
+.avatar{
+  width: 100px;
+  height: 100px;
+  top: -50px;
+  left: calc(50% - 50px);
+  position: absolute;
+  border-radius: 50%;
+}
+
 m
