@@ -81,5 +81,31 @@ h2{
 
 .loginbox input[type="submit"]
 {
-  
+  border:none;
+  outline:none;
+  height:40px;
+  background: red;
+  color: #fff;
+  font-size:18px;
+  border-radius:20px;
 }
+
+.loginbox input[type="submit"]:hover
+{
+  cursor:pointer;
+  background:#ffc107;
+  color:#000
+}
+
+.loginbox a{
+  text-decoration: none;
+  font-size: 12px;
+  line-height:20px;
+  color: darkgrey;
+}
+
+.loginbox a:hover
+{
+  color:#B30B46;
+}
+
