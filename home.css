@@ -55,6 +55,17 @@ color: rgb(0,0,0); font-size: 18px; line-height: 18px; padding: 2px; border-radi
 background: #000000; }
 
 
+.loggin {
+  width: 100px;
+  height: 100px;
+  background: #FF0000
+  color: #fff;
+  top: 30%;
+  left: 30%;
+  position: absolute;
+  transform: translate(-50%, - 50%);
+}
+
 .loginbox {
   width: 320px;
   height: 420px;
