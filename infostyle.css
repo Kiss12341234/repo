@@ -109,3 +109,8 @@ h2{
   color:#B30B46;
 }
 
+.loginbox a:active
+{
+  color:rgb(112,10,247);
+}
+
