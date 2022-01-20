@@ -1,6 +1,10 @@
 
 body {
-  background-image: url('https://cdn.glitch.me/984e2d49-bbc2-445b-9c74-9ff7b5a4c438%2Fanime.jpg?v=1636642457991')
+  background-image: url('https://cdn.glitch.me/984e2d49-bbc2-445b-9c74-9ff7b5a4c438%2Fanime.jpg?v=1636642457991');
+   margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
 }
 
 

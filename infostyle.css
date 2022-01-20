@@ -1,6 +1,10 @@
 
 body {
-  background-image: url('https://cdn.glitch.me/984e2d49-bbc2-445b-9c74-9ff7b5a4c438%2FMore%20info.jpg?v=1636642429197')
+  background-image: url('https://cdn.glitch.me/984e2d49-bbc2-445b-9c74-9ff7b5a4c438%2FMore%20info.jpg?v=1636642429197');
+   margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
 }
 
 

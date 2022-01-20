@@ -1,8 +1,13 @@
 
 body {
-  background-image: url('https://cdn.glitch.me/984e2d49-bbc2-445b-9c74-9ff7b5a4c438%2FHome%20page.jpg?v=1636642447691')
-    
+  background-image: url('https://cdn.glitch.me/984e2d49-bbc2-445b-9c74-9ff7b5a4c438%2FHome%20page.jpg?v=1636642447691');
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
+
 }
+    
 
 A { text-decoration: none; 
 color: rgb(0,0,0);
@@ -48,3 +53,4 @@ color: rgb(0,0,0); font-size: 18px; line-height: 18px; padding: 2px; border-radi
   background: #0554B8;}
 .myButton:active {
 background: #000000; }
+m
