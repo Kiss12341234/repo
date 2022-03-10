@@ -85,7 +85,7 @@ h2{
   outline:none;
   height:40px;
   background: red;
-  color: #fff;
+  color: #ffffff;
   font-size:18px;
   border-radius:20px;
 }
@@ -94,7 +94,7 @@ h2{
 {
   cursor:pointer;
   background:#ffc107;
-  color:#000
+  color:#000000
 }
 
 .loginbox a{
